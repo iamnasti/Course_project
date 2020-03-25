@@ -1,4 +1,4 @@
-Fan_Id,Name,Club,Sportsman_Id
+id,Name,Club,Sportsman_id
 2,Bob,Mom,3
 3,Mary,MNB,4
 4,Tom,Mom,1
